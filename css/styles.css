@@ -1,0 +1,38 @@
+h1 {
+    color: darkgoldenrod;
+    background-color: rgb(247, 236, 216);
+    font-family: georgia;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    color: brown;
+    font-family: Verdana;
+
+}
+
+h2.des {
+    color: black;
+    text-align: center;
+    background-color: ghostwhite;
+    font-size: 30px;
+}
+
+div.img {
+    text-align: center;
+}
+
+ul, ol{
+    color:rgb(75, 110, 3);
+    font-size: 25px;
+    font-family: arial;
+}
+
+p {
+    color: black;
+    background-color: ghostwhite;
+    font-size: 25px;
+    font-family: arial;
+    text-align:center;
+}
